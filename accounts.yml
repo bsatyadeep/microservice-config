@@ -4,7 +4,7 @@ account:
   message: "Account Service"
   contactDetails:
     name: "Customer Support"
-    email: "aC6ZK@example.com"
+    email: "{cipher}d6b54a405755a286fb88730c1a16663a4776e72e16c3bf0875b508b1e8a6723f6ed817f2577c436698d2af40f0cd56f0"
   onCallSupport:
     - "1234567890"
     - "9876543210"
