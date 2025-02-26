@@ -1,0 +1,10 @@
+build:
+    version: "3.0"
+card:
+    message: "Card Service"
+    contactDetails:
+        name: "Customer Support"
+        email: "aC6ZK@example.com"
+    onCallSupport:
+        - "1234567890"
+        - "9876543210"
